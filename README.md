@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Namrata
 
 I'm a passionate **Web Developer** who loves turning ideas into reality through code. I focus on building responsive, user-friendly, and performant web applications using modern tools and technologies.
 
